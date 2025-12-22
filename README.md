@@ -1,20 +1,86 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Astha Singh</h1>
 
-<!--
-**Asthasingh2005/Asthasingh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=BCA+Student;Web+Developer;Learning+Full+Stack+Development;Building+Real+World+Projects" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asthasingh2005&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
--->
-## 🌐 Connect with me
+## 👩‍💻 About Me
+- 🎓 BCA student passionate about web development  
+- 💻 Love building real-world, database-driven projects  
+- 🌱 Currently learning backend & full stack development  
+- 🚀 Goal: Become a skilled Full Stack Developer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/astha-singh-569758320/)
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,react" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 💱 Currency Converter  
+<p>
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/currency-converter/main/preview.png" width="400"/>
+</p>
+
+- 🔹 HTML, CSS, JavaScript  
+- 🔹 Real-time currency conversion  
+- 🔗 Live Demo: https://asthasingh2005.github.io/currency-converter/  
+
+---
+
+### 📊 Budget Planner Web App  
+<p>
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/budget-planner/main/preview.png" width="400"/>
+</p>
+
+- 🔹 PHP, MySQL, JavaScript  
+- 🔹 User Authentication  
+- 🔹 Expense & Budget Management  
+- 🔹 Database-driven web application  
+
+---
+
+## 🌐 Portfolio Website
+🔗 https://asthasingh2005.github.io/
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/astha-singh-569758320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Asthasingh2005" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asthasingh2005&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asthasingh2005&theme=tokyonight" />
+</p>
+
+---
+
+✨ *Learning • Building • Growing* 🌱
+
+
