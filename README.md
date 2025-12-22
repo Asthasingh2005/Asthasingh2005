@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Astha Singh</h1
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg" width="180" />
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg" width="180" style="border-radius:50%; display:block; margin:auto;" />
 </p>
-
 
 
                                           
