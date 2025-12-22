@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Astha Singh</h1>
+<h1 align="center">Hi 👋, I'm Astha Singh</h1
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg" width="180" />
+</p>
+
+
+
+                                          
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=BCA+Student;Web+Developer;Learning+Full+Stack+Development;Building+Real+World+Projects" />
@@ -29,6 +37,10 @@
 ## 🚀 Projects
 
 ### 💱 Currency Converter  
+
+
+
+
 <p>
   <img src="https://raw.githubusercontent.com/Asthasingh2005/currency-converter/main/preview.png" width="400"/>
 </p>
@@ -40,6 +52,10 @@
 ---
 
 ### 📊 Budget Planner Web App  
+
+
+
+
 <p>
   <img src="https://raw.githubusercontent.com/Asthasingh2005/budget-planner/main/preview.png" width="400"/>
 </p>
@@ -50,6 +66,24 @@
 - 🔹 Database-driven web application  
 
 ---
+
+### 🐍 Snake Game
+<img src="https://raw.githubusercontent.com/Asthasingh2005/snake-game/main/preview.png" width="400"/>
+
+- HTML, CSS, JavaScript  
+- Classic snake game with keyboard controls  
+- Score tracking & game logic  
+- Improves JavaScript logic and DOM manipulation skills  
+
+🔗 Live Demo: https://asthasingh2005.github.io/snake-game/
+
+
+
+
+
+
+
+
 
 ## 🌐 Portfolio Website
 🔗 https://asthasingh2005.github.io/
