@@ -140,3 +140,7 @@ Git • GitHub • VS Code
 </p>
 
 ✨ *Learning • Building • Growing consistently* 🌱
+
+<p align="center">
+  <img src="https://github.com/Asthasingh2005/Asthasingh2005/blob/output/github-contribution-grid-snake.svg" />
+</p>
