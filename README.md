@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Astha Singh</h1>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg" width="190" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg"
+       width="190"
+       style="border-radius:50%; box-shadow:0 10px 25px rgba(0,0,0,0.25);" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=650&lines=BCA+Student;Frontend+Web+Developer;Learning+MERN+Stack;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=680&lines=BCA+Student;Frontend+Web+Developer;Learning+MERN+Stack;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+  <i>💡 Turning ideas into clean & user-friendly web experiences</i>
 </p>
 
 <p align="center">
@@ -19,11 +21,11 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 **BCA Student**
-- 💻 Interested in **Frontend & Full Stack Web Development**
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🚀 Goal: **Become a Skilled Full Stack Developer**
-- ✨ Love creating **clean UI and database-driven projects**
+- 🎓 **BCA Student** with strong interest in web technologies  
+- 💻 Focused on building **clean, responsive & practical applications**  
+- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🚀 Aspiring **Full Stack Developer**  
+- ✨ Believe in *learning by building real-world projects*
 
 ---
 
@@ -33,47 +35,63 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,mongodb,nodejs,git,github" />
 </p>
 
+### 💻 Frontend
+HTML • CSS • JavaScript • React • Tailwind CSS  
+
+### ⚙️ Backend
+Node.js • Express.js • MongoDB • PHP • MySQL  
+
+### 🛠 Tools
+Git • GitHub • VS Code  
+
 ---
 
 ## 🚀 Projects
 
 ### 💱 Currency Converter
 <p>
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/currency-converter/main/preview.png" width="440"/>
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/currency-converter/main/preview.png"
+       width="440"
+       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
 </p>
 
 - HTML, CSS, JavaScript  
 - Real-time currency conversion  
+- Improved **API handling & JS logic**  
 - 🔗 Live Demo: https://asthasingh2005.github.io/currency-converter/
 
 ---
 
 ### 📊 Budget Planner Web App
 <p>
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/budget-planner/main/preview.png" width="440"/>
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/budget-planner/main/preview.png"
+       width="440"
+       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
 </p>
 
 - PHP, MySQL, JavaScript  
 - User Authentication  
 - Expense & Budget Management  
-- Database-driven web application  
+- Strengthened **backend & database integration**  
 
 ---
 
 ### 🐍 Snake Game
 <p>
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/snake-game/main/preview.png" width="440"/>
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/snake-game/main/preview.png"
+       width="440"
+       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
 </p>
 
 - HTML, CSS, JavaScript  
 - Classic snake game with keyboard controls  
-- Score tracking & game logic  
+- Improved **problem-solving & DOM manipulation**  
 - 🔗 Live Demo: https://asthasingh2005.github.io/snake-game/
 
 ---
 
 ## 🌐 Portfolio Website
-🔗 **https://Asthasingh2005.github.io/**
+🔗 **https://asthasingh2005.github.io/**
 
 ---
 
@@ -102,4 +120,4 @@
 
 ---
 
-✨ *Learning • Building • Improving Every Day* 🌱
+✨ *Learning • Building • Growing consistently* 🌱
