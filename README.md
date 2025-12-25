@@ -3,29 +3,29 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg"
        width="190"
-       style="border-radius:50%; box-shadow:0 10px 25px rgba(0,0,0,0.25);" />
+       style="border-radius:50%; box-shadow:0 15px 35px rgba(124,58,237,0.35);" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=680&lines=BCA+Student;Frontend+Web+Developer;Learning+MERN+Stack;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=BCA+Student;Frontend+Web+Developer;Learning+MERN+Stack;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-  <i>💡 Turning ideas into clean & user-friendly web experiences</i>
+  <i>✨ Designing clean interfaces • Writing logical code • Building meaningful projects</i>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Asthasingh2005&label=Profile%20Views&color=7c3aed&style=flat" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=wave&color=7c3aed&height=120&section=divider"/>
 
 ## 👩‍💻 About Me
-- 🎓 **BCA Student** with strong interest in web technologies  
-- 💻 Focused on building **clean, responsive & practical applications**  
-- 🌱 Currently learning **MERN Stack (MongoDB, Express, React, Node.js)**  
+- 🎓 **BCA Student** passionate about web development  
+- 💻 Focused on **clean UI, smooth UX & scalable logic**  
+- 🌱 Currently exploring **MERN Stack (MongoDB, Express, React, Node.js)**  
 - 🚀 Aspiring **Full Stack Developer**  
-- ✨ Believe in *learning by building real-world projects*
+- ✨ Believe in *learning by building and improving every day*
 
 ---
 
@@ -35,13 +35,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,mongodb,nodejs,git,github" />
 </p>
 
-### 💻 Frontend
+### 💻 Frontend  
 HTML • CSS • JavaScript • React • Tailwind CSS  
 
-### ⚙️ Backend
+### ⚙️ Backend  
 Node.js • Express.js • MongoDB • PHP • MySQL  
 
-### 🛠 Tools
+### 🛠 Tools  
 Git • GitHub • VS Code  
 
 ---
@@ -52,12 +52,12 @@ Git • GitHub • VS Code
 <p>
   <img src="https://raw.githubusercontent.com/Asthasingh2005/currency-converter/main/preview.png"
        width="440"
-       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
+       style="border-radius:14px; box-shadow:0 15px 35px rgba(0,0,0,0.35);" />
 </p>
 
 - HTML, CSS, JavaScript  
 - Real-time currency conversion  
-- Improved **API handling & JS logic**  
+- Strong **API handling & JavaScript logic**  
 - 🔗 Live Demo: https://asthasingh2005.github.io/currency-converter/
 
 ---
@@ -66,13 +66,13 @@ Git • GitHub • VS Code
 <p>
   <img src="https://raw.githubusercontent.com/Asthasingh2005/budget-planner/main/preview.png"
        width="440"
-       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
+       style="border-radius:14px; box-shadow:0 15px 35px rgba(0,0,0,0.35);" />
 </p>
 
 - PHP, MySQL, JavaScript  
 - User Authentication  
 - Expense & Budget Management  
-- Strengthened **backend & database integration**  
+- Strong **backend & database integration**  
 
 ---
 
@@ -80,12 +80,12 @@ Git • GitHub • VS Code
 <p>
   <img src="https://raw.githubusercontent.com/Asthasingh2005/snake-game/main/preview.png"
        width="440"
-       style="box-shadow:0 12px 28px rgba(0,0,0,0.25); border-radius:12px;" />
+       style="border-radius:14px; box-shadow:0 15px 35px rgba(0,0,0,0.35);" />
 </p>
 
 - HTML, CSS, JavaScript  
 - Classic snake game with keyboard controls  
-- Improved **problem-solving & DOM manipulation**  
+- Enhanced **logic building & DOM manipulation**  
 - 🔗 Live Demo: https://asthasingh2005.github.io/snake-game/
 
 ---
@@ -116,6 +116,14 @@ Git • GitHub • VS Code
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asthasingh2005&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
