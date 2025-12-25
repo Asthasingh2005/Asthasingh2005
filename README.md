@@ -127,11 +127,13 @@ Git • GitHub • VS Code
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/output/github-contribution-grid-snake.svg" />
 </p>
+
+
 
 ---
 
