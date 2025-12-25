@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png" width="190" />
+      <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.jpeg" width="190" />
     </td>
   </tr>
 </table>
