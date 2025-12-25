@@ -73,7 +73,7 @@
 ---
 
 ## 🌐 Portfolio Website
-🔗 **https://asthasingh2005.github.io/**
+🔗 **https://Asthasingh2005.github.io/**
 
 ---
 
