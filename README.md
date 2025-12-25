@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Astha Singh</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=720&lines=Crafting+Neon+UIs;Building+Modern+Web+Apps;Turning+Ideas+Into+Reality" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/main/profile.png.jpeg"
@@ -19,6 +22,9 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=7c3aed&height=120&section=divider"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Code+with+clarity.;Design+with+purpose.;Build+what+matters." />
+</p>
 
 ## 👩‍💻 About Me
 - 🎓 **BCA Student** passionate about web development  
@@ -28,12 +34,14 @@
 - ✨ Believe in *learning by building and improving every day*
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider"/>
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,mysql,mongodb,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,git,github&theme=dark" />
 </p>
+
 
 ### 💻 Frontend  
 HTML • CSS • JavaScript • React • Tailwind CSS  
@@ -45,6 +53,7 @@ Node.js • Express.js • MongoDB • PHP • MySQL
 Git • GitHub • VS Code  
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider"/>
 
 ## 🚀 Projects
 
@@ -77,10 +86,8 @@ Git • GitHub • VS Code
 ---
 
 ### 🐍 Snake Game
-<p>
-  <img src="https://raw.githubusercontent.com/Asthasingh2005/snake-game/main/preview.png"
-       width="440"
-       style="border-radius:14px; box-shadow:0 15px 35px rgba(0,0,0,0.35);" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Asthasingh2005/Asthasingh2005/output/github-contribution-grid-snake.svg" />
 </p>
 
 - HTML, CSS, JavaScript  
@@ -127,5 +134,9 @@ Git • GitHub • VS Code
 </p>
 
 ---
+
+<p align="center">
+  <b style="color:#7c3aed;">⚡ Passion • Consistency • Growth ⚡</b>
+</p>
 
 ✨ *Learning • Building • Growing consistently* 🌱
